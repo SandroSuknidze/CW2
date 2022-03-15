@@ -1,0 +1,270 @@
+.border {
+  border: 2px;
+  border-color: gainsboro;
+  border-style: solid;
+  padding-bottom: 65px;
+}
+
+.txt {
+  margin-left: 4px;
+}
+
+.brdr {
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  background-color: #eeeaaa;
+  padding-bottom: 65px;
+}
+
+.brdr3 {
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  padding-bottom: 65px;
+}
+
+.student {
+  border: 2px;
+  border-color: gainsboro;
+  border-style: solid;
+  text-align: center;
+  padding-bottom: 26px;
+}
+
+.mrg {
+    margin-top: -15px;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.line1 {
+    border: 0.5px;
+    border-style: solid;
+    border-color: brown;
+    width: 450px;
+    margin-left: 5px;
+}
+
+.line2 {
+    border: 0.5px;
+    border-style: solid;
+    width: 450px;
+    margin-left: 5px;
+}
+
+.meeqvse {
+    border: 2px;
+    border-color: gainsboro;
+    border-style: solid;
+    padding-bottom: 65px;
+    background-color: #fffafa;
+    margin-right: 500px;
+}
+
+.yo1 {
+    letter-spacing: 5px;
+    font-size: 1.2vh;
+    margin-left: 14px;
+    margin-top: -15px;
+}
+
+.yo {
+    letter-spacing: 5px;
+    font-size: 1.2vh;
+    margin-left: 14px;
+}
+
+.xo {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-right: 350px;
+    padding-bottom: 20px;
+}
+
+.dotted {
+    border-style: dotted;
+    color: cyan;
+    border-width: 7px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.dashed {
+    border-style: dashed;
+    color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.solid {
+    border-style: solid;
+    color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.double {
+    border-style: double;
+    color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.groove {
+    border-style: groove;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.ridge {
+    border-style: ridge;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.inset {
+    border-style: inset;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.outset {
+    border-style: outset;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.none {
+    border-style: none;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.hidden {
+    border-style: hidden;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.mix {
+    border-style: dotted dashed solid double;
+    border-color: cyan;
+    border-width: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.border1 {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 370px;
+    padding-bottom: 18px;
+}
+
+.k {
+    margin-left: 7px;
+}
+
+.q {
+    border: 2px solid black;
+    background-color: darkred;
+    border-radius: 20px;
+    margin-right: 400px;
+    transform: translateX(8px);
+}
+
+.cr {
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 400px;
+    transform: translateX(8px);
+}
+
+.cr1 {
+    border: 2px transparent;
+    border-radius: 20px;
+    margin-right: 400px;
+    transform: translateX(8px);
+    background-image: url(https://thumbs.dreamstime.com/b/sand-under-sea-abstract-marine-design-template-blue-deep-ocean-180905891.jpg)
+}
+
+.rr {
+    border-style: ridge;
+    border-width: 6px;
+    margin-right: 500px;
+    margin-left: 7px;
+    padding-bottom: 15px;
+}
+
+.red {
+    border-radius: 15px 50px 30px 5px;
+    border: solid darkred;
+    margin-left: 7px;
+    background-color: darkred;
+    margin-right: 300px;
+}
+
+.red2 {
+    border-radius: 15px 50px 30px;
+    border: solid darkred;
+    margin-left: 7px;
+    background-color: darkred;
+    margin-right: 300px;
+}
+
+.red3 {
+    border-radius: 15px 50px;
+    border: solid darkred;
+    margin-left: 7px;
+    background-color: darkred;
+    margin-right: 300px;
+}
+
+.sqr {
+    border-style: ridge;
+    border-color: lightblue;
+    margin-right: 500px;
+    padding-bottom: 23px;
+}
+
+.dr {
+    border: 2px solid black;
+    border-radius: 50px/15px;
+    background-color: darkred;
+    margin-left: 7px;
+    margin-right: 300px;
+}
+
+.dr2 {
+    border: 2px solid black;
+    border-radius: 15px/50px;
+    background-color: darkred;
+    margin-left: 7px;
+    margin-right: 300px;
+}
+
+.dr3 {
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: darkred;
+    margin-left: 7px;
+    margin-right: 300px;
+}
